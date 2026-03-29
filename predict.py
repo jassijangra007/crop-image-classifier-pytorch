@@ -36,8 +36,8 @@ class_names = [
 ]
 
 # -------- 5. Folder Paths --------
-input_folder = "C:/Jassi/MyAlbumsj/Pictures"
-output_folder = "C:/Jassi/Sorted_Photos"
+input_folder = "C:/Input_Pictures"
+output_folder = "C:/Output_Photos"
 
 # -------- 6. Auto Sorting --------
 for filename in os.listdir(input_folder):
