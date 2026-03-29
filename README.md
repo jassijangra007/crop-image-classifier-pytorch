@@ -45,7 +45,7 @@ A deep learning-based image classification system that identifies different crop
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/crop-image-classifier-pytorch.git
+git clone https://github.com/jassijangra007/crop-image-classifier-pytorch.git
 cd crop-image-classifier-pytorch
 pip install -r requirements.txt
 ```
