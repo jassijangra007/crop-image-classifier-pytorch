@@ -89,13 +89,41 @@ python predict.py
 
 ## 💾 Model
 
-The trained model is saved as:
+## 📦 Pretrained Model (crop_model.pth)
 
+This model is provided for **demonstration purposes only**.
+
+* It has been trained on a limited dataset.
+* The accuracy may not be optimal for real-world applications.
+* Performance depends heavily on the **quality and quantity of training data**.
+
+👉 You are encouraged to train your own model using:
+
+```bash
+python train.py
 ```
-crop_model.pth
-```
+
+### ⚠️ Important Note
+
+The model accuracy improves with:
+
+* More training images 📈
+* Better data quality 🎯
+* Balanced class distribution ⚖️
+
+In general:
+**More data = Better accuracy**
 
 ---
+
+### 🔁 Recommendation
+
+For best results:
+
+* Use a larger dataset
+* Ensure proper labeling
+* Train for more epochs
+
 
 ## 📌 Notes
 
